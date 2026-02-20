@@ -343,11 +343,7 @@ public class CloudSimExample4 {
 
 <img width="1820" height="930" alt="image" src="https://github.com/user-attachments/assets/e4f9020a-7bf3-44c5-b167-d42fa639b77a" />
 
-========== RESULT ==========
-Cloudlet 0 | Length: 20000 | VM: 0 | Datacenter: 2 | Time: 40.0
-Cloudlet 1 | Length: 40000 | VM: 1 | Datacenter: 3 | Time: 80.0
-Cloudlet 2 | Length: 60000 | VM: 0 | Datacenter: 2 | Time: 120.0
-Cloudlet 3 | Length: 80000 | VM: 1 | Datacenter: 3 | Time: 160.0
+
 
 
 
